@@ -28,7 +28,6 @@ As a Full Stack Developer, I thrive in fast-paced, agile environments and bring 
 I'm eager to continue expanding my knowledge in web development. Whether you're looking for a reliable developer or want to discuss a project, feel free to reach out. Let's collaborate and build something amazing!
 
 <a href="https://www.linkedin.com/in/belal-elkady" target="_blank"><img src="https://img.shields.io/badge/-Belal%20Elkady-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Belal_elkady" target="_blank"><img src="https://img.shields.io/badge/-Belal%20Elkady-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
